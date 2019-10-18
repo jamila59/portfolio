@@ -10,21 +10,17 @@
 .container {
   float: right;
   background-color: #ceedd7;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
 }
 .row {
   float: left;
   padding-left;
   padding-right;
 }
-.container {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 20px;
-}
+
 .jumbotron h1 {
   text-decoration: underline;
-}
-.row {
-  float: right;
 }
 
 .notes {

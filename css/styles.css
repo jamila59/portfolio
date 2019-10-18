@@ -35,3 +35,6 @@ padding: 35px;
     background-color: #ededed;
     padding-right: 15px
   }
+.well h2 {
+  text-decoration: underline;
+}

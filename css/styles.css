@@ -1,0 +1,17 @@
+.sidebar {
+  position: relative;
+  width: 25%;
+  float: left;
+  overflow: hidden;
+  height: 25%;
+  background-color: #ededed;
+  border-radius: 5px;
+}
+.container {
+  float: right;
+}
+
+.sidebar img {
+  width: 175px;
+  float: left;
+}

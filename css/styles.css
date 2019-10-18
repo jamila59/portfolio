@@ -1,4 +1,4 @@
-.sidebar {
+.sidebar  {
   position: relative;
   width: 25%;
   float: left;
@@ -9,9 +9,15 @@
 }
 .container {
   float: right;
+  background-color: #ceedd7;
 }
-
-.sidebar img {
-  width: 175px;
+.row {
   float: left;
+  padding-left;
+  padding-right;
 }
+.container {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+.container

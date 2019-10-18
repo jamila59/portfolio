@@ -25,9 +25,13 @@
 }
 .row {
   float: right;
-
 }
 
 .notes {
 padding: 35px;
+  }
+  .well p {
+    padding: 15px
+    background-color: #ededed;
+    padding-right: 15px
   }
